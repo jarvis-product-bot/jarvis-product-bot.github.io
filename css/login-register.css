@@ -158,8 +158,8 @@
     width: 100%;
 }
 .login .btn-login, .registerBox .btn-register{
-    background-color: #22195b;
-    border-color: #22195b;
+    background-color: #240a0d;
+    border-color: #240a0d;
     border-width: 0;
     color: #FFFFFF;
     display: block;
@@ -169,7 +169,7 @@
     width: 100%;
 }
 .login .btn-login:hover, .registerBox .btn-register:hover{
-    background-color: #412fb3;
+    background-color:  #240a0d;
     color: #FFFFFF;
 }
 .login .form-control{
@@ -205,7 +205,7 @@
 }
 
 .big-login, .big-register{
-    background-color: #22195b;
+    background-color: #240a0d;
     color: #FFFFFF;
     border-radius: 7px;
     border-width: 2px;
@@ -217,15 +217,15 @@
     transition: all 0.3s ease 0s;
 }
 .big-login:hover{
-    background-color: #412fb3;
+    background-color:  #240a0d;
     color: #FFFFFF;
 }
 .big-register{
     background-color: rgba(0,0,0,.0);
     color: #00bbff;
-    border-color: #22195b;
+    border-color: #240a0d;
 }
 .big-register:hover{
-    border-color: #412fb3;
-    color:  #412fb3;
+    border-color:  #240a0d;
+    color:   #240a0d;
 }
